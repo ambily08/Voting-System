@@ -1,0 +1,72 @@
+[
+    {
+        "index": 0,
+        "timestamp": 1738661238.441796,
+        "voter_hash": "GENESIS",
+        "state": "None",
+        "district": "None",
+        "party": "None",
+        "previous_hash": "0",
+        "hash": "ffeb29b792504d1f6b88d3c76f4cb321ddb75f5b54456b54ecd675fb1c7eea91"
+    },
+    {
+        "index": 1,
+        "timestamp": 1738661238.441815,
+        "voter_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "state": "Kerala",
+        "district": "Thiruvananthapuram",
+        "party": "LDF",
+        "previous_hash": "3b5adf2cbcae02df0dce82b78a625380cda278fe5070f5d6a39d6bb7dc011648",
+        "hash": "2d8a6f373f77bc097e089ecbc0eab4875983c878be5277d047a77318fc5ef547"
+    },
+    {
+        "index": 2,
+        "timestamp": 1738661238.4418201,
+        "voter_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "state": "Kerala",
+        "district": "Ernakulam",
+        "party": "LDF",
+        "previous_hash": "fb0f0e0fa7f8dcd32125dda82f7dfdd204ea4afe23565d1aec3a2d805d3c4b46",
+        "hash": "1e39afd22895d883cc1115df809375b5fc435691e1a6c5ab2d2cea5c62c7cfd9"
+    },
+    {
+        "index": 3,
+        "timestamp": 1738661238.4418244,
+        "voter_hash": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+        "state": "Kerala",
+        "district": "Thiruvananthapuram",
+        "party": "UDF",
+        "previous_hash": "a2d5269b95a9f8c5dde4d4b381dd7526a7533cf4426ac2411587fe19833c35ee",
+        "hash": "4e5bd8d23b3ff290449526519cd52d12947a6f58d743f6d85a62f8a0a6c4b4c8"
+    },
+    {
+        "index": 4,
+        "timestamp": 1738661238.441828,
+        "voter_hash": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+        "state": "Kerala",
+        "district": "Thiruvananthapuram",
+        "party": "BJP",
+        "previous_hash": "6ec448728b983db34fa055e4071d6093d9bbfc3585db8d51c167bd505a44d248",
+        "hash": "315611213f23933fe79a0a1b9be12ef5701537f4c4f80dac56a52b843ed6e091"
+    },
+    {
+        "index": 5,
+        "timestamp": 1738661238.4418314,
+        "voter_hash": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+        "state": "Kerala",
+        "district": "Thiruvananthapuram",
+        "party": "UDF",
+        "previous_hash": "eadb53357e8c9af73e1a489ce0e1599a3c2f2e14aa4779345b620959f8dc03ab",
+        "hash": "426a98aaeb04ef5c08282e9a723dc04dee8472fa5f5262504b84c3aaadbad8ec"
+    },
+    {
+        "index": 6,
+        "timestamp": 1738661238.4827988,
+        "voter_hash": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+        "state": "Kerala",
+        "district": "Thiruvananthapuram",
+        "party": "BJP",
+        "previous_hash": "426a98aaeb04ef5c08282e9a723dc04dee8472fa5f5262504b84c3aaadbad8ec",
+        "hash": "ddeb57c716e07b28028001ad393dc52f0ef0366b92f814adc542d8c8fc206216"
+    }
+]
